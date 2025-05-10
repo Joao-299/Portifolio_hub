@@ -1,0 +1,24 @@
+# Meus Objetivos no Bootcamp I CEUB 2025
+
+Este documento detalha meus principais objetivos de aprendizado e desenvolvimento durante o Bootcamp.
+
+## Objetivos Gerais
+- [ ] Adquirir uma compreensão sólida dos fundamentos de lógica de programação.
+- [ ] Desenvolver habilidades práticas com as ferramentas essenciais do mercado, como Git e GitHub.
+- [ ] Construir um portfólio inicial com os projetos desenvolvidos durante o curso.
+
+## Habilidades Específicas que Desejo Aprender/Aprimorar
+- [ ] Git e GitHub: Dominar o versionamento de código, branches, pull requests e colaboração.
+- [ ] Linguagem de Programação 1,  HTML/CSS: Ser capaz de criar páginas web estruturadas e estilizadas.
+- [ ] Linguagem de Programação 2, JavaScript: Entender os conceitos básicos e aplicar em interações simples.
+- [ ] Lógica de Programação Fortalecer minha capacidade de resolver problemas de forma lógica.
+
+
+## Como Pretendo Alcançar Esses Objetivos
+* Participar ativamente de todas as aulas e atividades propostas.
+* Dedicar tempo extra para estudo e prática dos conceitos apresentados.
+* Buscar ajuda e colaborar com os colegas sempre que necessário.
+* Desenvolver todos os desafios e projetos com empenho.
+
+---
+*Este é um documento vivo e poderá ser atualizado conforme meu progresso no bootcamp.*
